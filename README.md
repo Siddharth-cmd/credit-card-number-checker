@@ -45,3 +45,4 @@ The last two digits are check digits.
 checkLuhn("896101950123440000") will return 1 - the first check digit
 
 checkLuhn("950123440000") will return 8 - the second check digit. This shortened number, followed by its check digit is printed on the SIM card itself.
+Thank you ! :)
